@@ -30,7 +30,7 @@ O usuário acessa o sistema → visualiza notícias → pode buscar conteúdos �
 
 ---
 
-##Repositório
+## Repositório
 
 (https://github.com/vitordominasc/projeto-tehcnews)
 
