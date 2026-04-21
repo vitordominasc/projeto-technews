@@ -30,20 +30,26 @@ O usuário acessa o sistema → visualiza notícias → pode buscar conteúdos �
 
 ---
 
+##Repositório
+
+(https://github.com/vitordominasc/projeto-tehcnews)
+
+---
+
 ## Product Backlog
 
-(Será preenchido após criação das tarefas no GitHub)
+(https://github.com/vitordominasc/projeto-tehcnews/issues)
 
 ---
 
 ## Sprint 01
 
-(Será preenchido após definição da Sprint)
+(https://github.com/users/vitordominasc/projects/2/views/1)
 
 ---
 
 ## Kanban
 
-(Será preenchido após criação do quadro Kanban)
+(https://github.com/users/vitordominasc/projects/2/views/1)
 
 ---
