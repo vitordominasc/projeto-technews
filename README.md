@@ -1,1 +1,51 @@
 # projeto-tehcnews
+
+# Projeto: TechNews - Portal de Tecnologia
+
+## Integrantes
+
+* Paulo Vitor Domingos Nascimento
+
+---
+
+## Descrição do Projeto
+
+Este projeto consiste no desenvolvimento de um portal web de notícias de tecnologia, onde usuários poderão acessar conteúdos atualizados sobre programação, inteligência artificial, inovação e tendências do mercado.
+
+---
+
+## Objetivo
+
+Desenvolver um sistema que permita:
+
+* Visualizar notícias de tecnologia
+* Buscar notícias
+* Filtrar por categorias
+* Favoritar conteúdos
+* Realizar login de usuário
+
+---
+
+## Estrutura inicial da história
+
+O usuário acessa o sistema → visualiza notícias → pode buscar conteúdos → filtrar por categoria → acessar uma notícia → favoritar conteúdos → gerenciar preferências.
+
+---
+
+## Product Backlog
+
+(Será preenchido após criação das tarefas no GitHub)
+
+---
+
+## Sprint 01
+
+(Será preenchido após definição da Sprint)
+
+---
+
+## Kanban
+
+(Será preenchido após criação do quadro Kanban)
+
+---
