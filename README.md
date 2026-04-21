@@ -1,5 +1,3 @@
-# projeto-tehcnews
-
 # Projeto: TechNews - Portal de Tecnologia
 
 ## Integrantes
