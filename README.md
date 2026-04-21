@@ -24,6 +24,12 @@ Desenvolver um sistema que permita:
 
 ---
 
+## Status do Projeto
+
+Projeto em desenvolvimento, atualmente na Sprint 1.
+
+---
+
 ## Estrutura inicial da história
 
 O usuário acessa o sistema → visualiza notícias → pode buscar conteúdos → filtrar por categoria → acessar uma notícia → favoritar conteúdos → gerenciar preferências.
