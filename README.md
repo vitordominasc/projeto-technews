@@ -32,13 +32,13 @@ O usuário acessa o sistema → visualiza notícias → pode buscar conteúdos �
 
 ## Repositório
 
-(https://github.com/vitordominasc/projeto-tehcnews)
+(https://github.com/vitordominasc/projeto-technews)
 
 ---
 
 ## Product Backlog
 
-(https://github.com/vitordominasc/projeto-tehcnews/issues)
+(https://github.com/vitordominasc/projeto-technews/issues)
 
 ---
 
