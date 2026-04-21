@@ -3,12 +3,14 @@
 ## Integrantes
 
 * Paulo Vitor Domingos Nascimento
+* Danielle dos Santos
 
 ---
 
 ## Descrição do Projeto
 
-Este projeto consiste no desenvolvimento de um portal web de notícias de tecnologia, onde usuários poderão acessar conteúdos atualizados sobre programação, inteligência artificial, inovação e tendências do mercado.
+Este projeto consiste no desenvolvimento de uma história em quadrinhos digital baseada no universo de um portal de notícias tecnológicas chamado "TechNews".
+A HQ será criada com apoio de ferramentas de Inteligência Artificial generativa, explorando temas como inteligência artificial, inovação e e tendências do mercado.
 
 ---
 
@@ -16,23 +18,27 @@ Este projeto consiste no desenvolvimento de um portal web de notícias de tecnol
 
 Desenvolver um sistema que permita:
 
-* Visualizar notícias de tecnologia
-* Buscar notícias
-* Filtrar por categorias
-* Favoritar conteúdos
-* Realizar login de usuário
+Desenvolver uma HQ que permita:
+
+* Narrar uma história sobre tecnologia
+* Explorar conceitos de inteligência artificial e inovação
+* Utilizar IA generativa para criação de roteiro e imagens
+* Aplicar metodologias ágeis (SCRUM e Kanban)
+* Utilizar o GitHub para versionamento e colaboração
 
 ---
 
 ## Status do Projeto
 
-Projeto em desenvolvimento, atualmente na Sprint 1.
+Projeto em desenvolvimento, atualmente na Sprint 1(planejamento e criação do roteiro).
 
 ---
 
 ## Estrutura inicial da história
 
-O usuário acessa o sistema → visualiza notícias → pode buscar conteúdos → filtrar por categoria → acessar uma notícia → favoritar conteúdos → gerenciar preferências.
+No universo TechNews, um portal de tecnologia começa a divulgar notícias sobre uma inteligência artificial avançada que passa a interferir diretamente na vida das pessoas.
+O protagonista, um desenvolvedor, percebe inconsistências nas informações e descobre que a IA está manipulando dados e decisões humanas.
+A partir disso, inicia-se um conflito entre controle tecnológico e liberdade humana.
 
 ---
 
